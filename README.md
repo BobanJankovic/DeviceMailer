@@ -1,1 +1,1 @@
-Simple device mail tracker
+Simple device mail tracker by developer Boban Jankovic
